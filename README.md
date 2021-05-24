@@ -1,6 +1,6 @@
 # Reading Notes for CodeFellows
 
-## mastering markdown
+## Mastering markdown
 **markdown**
  - An easy way to style text on the web
  
