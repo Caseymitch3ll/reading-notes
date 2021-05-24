@@ -8,7 +8,7 @@
  
  - To be able to control the layout and format of the document.
   
-  ### Syntax
+ ### Syntax
    - A format to follow that gives you a guide to apply headings, Order Items, add images, links, and much more.
    - Here is an example of a table or chart using syntax.
    
