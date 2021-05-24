@@ -16,7 +16,7 @@
    ------------------|---------------
    33                | 22
    
-   
+   - Syntax allows you to be creative with your format and blurr out ~things~ you dont want to show
 
 
  
