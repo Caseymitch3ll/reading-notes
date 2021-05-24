@@ -6,10 +6,15 @@
  
  *why is it important?*
  
- - To be able to control the layout and format of the document
+ - To be able to control the layout and format of the document.
   
   ### Syntax
-   - A format to follow that gives you a guide to apply headings, Order Items, add images, links, and much more
+   - A format to follow that gives you a guide to apply headings, Order Items, add images, links, and much more.
+   - Here is an example of a table or chart using syntax.
+   
+   Amount of gumballs| Gumballs eaten
+   ------------------|---------------
+   33                | 22
    
    
 
