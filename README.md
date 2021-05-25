@@ -7,7 +7,7 @@
     
 **Positivity**
      
-     -  encouraging yourself and others around you 
+- encouraging yourself and others around you 
     
 **Resilience**: Finishing a task through to the end
         
