@@ -11,13 +11,13 @@
   -echo: The command that shows what shell you are currently in.
   
   ### Basic Navigation
-  - PWD: print working directory 
-  - LS: command for list
-  - []:everything inside is optional
+-PWD: print working directory 
+-LS: command for list
+-[]:everything inside is optional
 **Paths**
- -Absolute: A location in relation to the root directory. Will always start with /
- -Relative: where we are located in the system. Will not start with /
- -**~**: Home directory shortcut
- -**..**: Parent directory referance 
- -**.**: Current directory referance
- _**CD**: Change Directory
+-Absolute: A location in relation to the root directory. Will always start with /
+-Relative: where we are located in the system. Will not start with /
+-**~**: Home directory shortcut
+-**..**: Parent directory referance 
+-**.**: Current directory referance
+_**CD**: Change Directory
