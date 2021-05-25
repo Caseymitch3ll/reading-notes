@@ -4,7 +4,7 @@
 
 ## Course 102 Table of Contents 
  
-- [Growht thinking](Growththinking)
+- [Growthinking](growthinking.md)
 - [Markdown](markdown.md)
 - [Revisions & the cloud](revisionsandthecloud.md)
 - [Coders computers](coderscomputer.md)
