@@ -5,13 +5,13 @@
  
  *Key components of Growth Thinking* 
     
-**1.Positivity**
+1.**Positivity**
      
 - encouraging yourself and others around you 
     
-**1.Resilience**: Finishing a task through to the end
+1.**Resilience**: Finishing a task through to the end
         
-~**1.I Can't**~:  eliminating negative thoughts 
+1.~**I Can't**~:  eliminating negative thoughts 
 
            
            
