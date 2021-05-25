@@ -20,4 +20,4 @@
 - **~**: Home directory shortcut
 - **..**: Parent directory referance 
 - **.**: Current directory referance
-_ **CD**: Change Directory
+- **CD**: Change Directory
