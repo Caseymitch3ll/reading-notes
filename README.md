@@ -1,15 +1,17 @@
 # Reading Notes for CodeFellows
 
 ## Growth Thinking
-  - a way of commiting your brain to a lifetime of learning
+  - A way of commiting your brain to a lifetime of learning
  
  *Key components of Growth Thinking* 
-     **Positivity**
-         -  encouraging yourself and others around you 
-     **Resilience
-         -  Finishing a task through to the end
-         ~I Can't~
-           - eliminating negative thoughts 
+    
+    **Positivity**
+     
+     -  encouraging yourself and others around you 
+    
+    **Resilience: Finishing a task through to the end
+        
+        ~I Can't~  eliminating negative thoughts 
            
            
            ![]https://images.app.goo.gl
