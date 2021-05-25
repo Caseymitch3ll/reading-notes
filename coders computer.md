@@ -21,3 +21,9 @@
 - **..**: Parent directory referance 
 - **.**: Current directory referance
 - **CD**: Change Directory
+#### Files
+- Everything is a file when using linux
+- **file extensions**: Typically 2-4 characters EX. file.exe making exe the extension.
+- Once a file reaches the command line it is considered a path.  
+- **\** an escape character that cancels or escapes the next character that follows.
+ 
