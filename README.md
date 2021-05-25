@@ -9,12 +9,12 @@
      
      -  encouraging yourself and others around you 
     
-    **Resilience: Finishing a task through to the end
+**Resilience**: Finishing a task through to the end
         
-        ~I Can't~  eliminating negative thoughts 
+~I Can't~  eliminating negative thoughts 
            
            
-           ![]https://images.app.goo.gl
+           
            
            
            
