@@ -9,9 +9,9 @@
      
 - encouraging yourself and others around you 
     
-1.**Resilience**: Finishing a task through to the end
+2.**Resilience**: Finishing a task through to the end
         
-1.~**I Can't**~:  eliminating negative thoughts 
+3.~**I Can't**~:  eliminating negative thoughts 
 
            
            
